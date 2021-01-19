@@ -1,6 +1,6 @@
 # SwayEOS
-SwayEOS
-Unoffical - To Install
+
+## Unoffical - To Install
 1) get the dot files
 
 2) copy files to the right directories (.config of your user):
@@ -23,9 +23,11 @@ Unoffical - To Install
       
   Also please install "wlogout" available in the AUR    
 
-To-Do
+## To-Do
 
-Maninly I want to work on the bar - everything else is working fine (I think)
+- Maninly I want to work on the bar - everything else is working fine (I think)
+
+- Enable LightDM with '''systemctl enable lightdm'''
 
 Keybindings
 
