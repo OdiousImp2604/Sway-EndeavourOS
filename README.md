@@ -1,6 +1,11 @@
 # Sway-WM Setup and Theme for EndeavourOS
 Community Edition 
 ***
+## Offical Repository - Use This
+
+https://github.com/EndeavourOS-Community-Editions/sway
+
+***
 
 ## To Install
 
