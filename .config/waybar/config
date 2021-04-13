@@ -16,6 +16,7 @@
       	],
  
     	"modules-right": [
+	     "idle_inhibitor",
              "network",
 	        "memory",
 	        "cpu",
@@ -33,6 +34,16 @@
      	],
  
 // Modules
+ 
+"idle_inhibitor": {
+  "format": "{icon} ",
+  "format-icons":{
+      "activated": "零",
+      "deactivated": "鈴"
+
+   }
+},
+ 
  
 "battery": {
     	"states": {
